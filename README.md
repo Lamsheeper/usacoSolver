@@ -1,4 +1,4 @@
-# Competitive Programming Solver
+# Competitive Programming Solver (WIP)
 
 Inspired by this tutorial by LangChain: https://langchain-ai.github.io/langgraph/tutorials/usaco/usaco/
 Based on this paper: https://arxiv.org/abs/2404.10952v1
